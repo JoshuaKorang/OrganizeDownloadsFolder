@@ -1,10 +1,13 @@
-## Web-Based Roleplaying Game 🎮
+## Organize Downloads Folder Script 📁
 
-A dynamic web-based roleplaying game where you can:
+A dynamic Python script to help you keep your Downloads folder clean and organized. The script automatically categorizes and moves files into respective folders based on file type.
 
-- **⚔️ Fight Monsters**: Engage in thrilling battles with a variety of creatures.
-- **🛡️ Buy Weapons**: Equip yourself with powerful weapons from various shops.
-- **🛒 Explore Stores**: Visit different stores to purchase items and upgrades.
-- **🏞️ Venture into Caves**: Discover hidden secrets and challenges in mysterious caves.
+### Features:
 
-Experience adventure and excitement in a captivating virtual world!
+- **📂 Organize Files**: Automatically sorts your downloads into categories such as Documents, Images, Audio, Videos, and more.
+- **🔍 Detect File Types**: Categorizes files based on their extensions (e.g., .pdf, .jpg, .mp3, .mp4, etc.).
+- **📁 Create Folders**: Creates organized subfolders within your Downloads folder for each file type if they don't exist.
+- **🚚 Move Files**: Efficiently moves files into the appropriate folder with a single run.
+- **🗃️ Miscellaneous**: Files with unrecognized extensions are moved to a "Miscellaneous" folder.
+  
+Enjoy a clean and organized Downloads folder with minimal effort!
